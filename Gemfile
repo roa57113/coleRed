@@ -1,6 +1,7 @@
 source :rubygems
 ruby "1.8.7"
 
+gem "pg"
 gem 'rails','2.3.5'
 gem 'i18n','0.4.2'
 gem 'declarative_authorization','0.5.1'
